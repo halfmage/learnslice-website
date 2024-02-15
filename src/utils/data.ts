@@ -1,37 +1,37 @@
 const services = [
     {
-        title: "Engagement and Loyalty",
-        description: "Qizify engages apprentices, enhances their knowledge, fosters loyalty, and simultaneously reduces dropout rates, maximizing company investments in apprenticeships.",
+        title: "Bindung und Motivation",
+        description: "Qizify bindet Auszubildende ein, erweitert ihr Wissen, fördert die Loyalität und senkt gleichzeitig die Abbrecherquoten, wodurch die Investitionen des Unternehmens in die Ausbildung maximiert werden.",
         icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
     },
     {
-        title: "Cost-Efficiency",
-        description: "By preventing premature departures, our solution saves companies around €18,000 per apprentice annually and ensures long-term benefits from apprenticeship investments.",
+        title: "Kosteneffizienz",
+        description: "Durch die Vermeidung von vorzeitigen Abgängen spart unsere Lösung den Unternehmen jährlich rund 18.000 € pro Auszubildenden und sichert den langfristigen Nutzen aus den Ausbildungsinvestitionen.",
         icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
     },
     {
-        title: "Time-Saving",
-        description: "Our AI-driven platform streamlines quiz creation, freeing up time for mentors to concentrate on other crucial tasks, ultimately boosting overall productivity and driving business growth.",
+        title: "Zeitsparend",
+        description: "Unsere KI-gestützte Plattform rationalisiert die Erstellung von Quizfragen und gibt Mentoren so mehr Zeit, sich auf andere wichtige Aufgaben zu konzentrieren, was letztendlich die Gesamtproduktivität steigert und das Geschäftswachstum vorantreibt.",
         icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
     },
     {
-        title: "Gamification",
-        description: "Gamification enhances engagement and motivation for learners while providing educators with effective tools to make learning more interactive and enjoyable.",
+        title: "Gamifizierung",
+        description: "Gamifizierung steigert das Engagement und die Motivation der Lernenden und bietet Pädagogen gleichzeitig effektive Werkzeuge, um das Lernen interaktiver und unterhaltsamer zu gestalten.",
         icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
     },
     {
-        title: "Personalized Learning",
-        description: "Qizify tailors content to your apprentices, enhancing comprehension and retention, which in turn leads to improved exam results and the development of a skilled and knowledgeable team.",
+        title: "Personalisiertes Lernen",
+        description: "Qizify passt Inhalte individuell an Ihre Auszubildenden an, wodurch das Verständnis und die Behaltensleistung gefördert werden, was wiederum zu besseren Prüfungsergebnissen und der Entwicklung eines kompetenten und kenntnisreichen Teams führt.",
         icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
     },
     {
-        title: "Comprehensive Support",
-        description: "Qizify provides comprehensive support for mentors, covering everything from onboarding to exam preparation, equipping apprentices with the essential skills required for their professional growth within your company.",
+        title: "Umfassende Unterstützung",
+        description: "Qizify bietet umfassende Unterstützung für Mentoren, die alles vom Onboarding bis zur Prüfungsvorbereitung abdeckt und den Auszubildenden die notwendigen Fähigkeiten für ihr berufliches Wachstum in Ihrem Unternehmen vermittelt.",
         icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
     },
